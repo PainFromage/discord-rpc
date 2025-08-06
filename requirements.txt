@@ -1,0 +1,19 @@
+# Discord Bot & Rich Presence Manager Advanced - Requirements
+# Python 3.7+ required
+
+# Rich Presence Discord
+pypresence>=4.2.1
+
+# HTTP requests for Discord API
+requests>=2.28.0
+
+# Image processing and GUI enhancement
+Pillow>=9.0.0
+
+# Optional: Enhanced GUI components (already included in most Python installations)
+# tkinter is included with Python by default
+
+# Development dependencies (optional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
